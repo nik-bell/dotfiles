@@ -1,0 +1,9 @@
+[user]
+    name = nik-bell
+    email = nicolas.bellotti@edu-its.it
+
+[core]
+    editor = nano
+
+[init]
+    defaultBranch = main

@@ -1,0 +1,24 @@
+# OS / editor junk
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Cache / runtime (non devono MAI finire nel repo)
+.cache/
+.config/pulse/
+.config/systemd/
+.config/dconf/
+.config/gtk-*/
+.config/mimeapps.list
+
+# Secrets & credentials
+.ssh/
+*.key
+*.pem
+
+# Git internals
+.git/
+
+# Logs
+*.log
